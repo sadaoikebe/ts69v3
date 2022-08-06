@@ -67,7 +67,7 @@ Item |ソース | 数量 |  備考
 TS69V3 PCBA | [JLCPCB PCBA](pcb/) | 1 |
 ケース | 3D Printed | 1 | 近日公開
 定位板 | laser cut brass | 1 | 近日公開
-クッション 2mm厚 x 60mm x 4mm | 16 | Poron/EVAフォーム等
+クッション 2mm厚 x 60mm x 4mm | | 16 | Poron/EVAフォーム等
 Pro Micro | [Shigezone等](https://www.shigezone.com/product/arduino-pro-micro/) | 1 | USB-Cタイプがおすすめ
 ピンヘッダ 12pin 2.54ピッチ | 電子工作ショップ等 | 2 |
 キースイッチ | AliEx/淘宝/自キ専門店等 | 配列によって69〜73個 | 何でもOK(kailh box 白軸がおすすめ)
