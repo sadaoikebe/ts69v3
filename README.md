@@ -59,17 +59,18 @@ JP配列のキー数を再現する場合、図のようにShiftの行は左に0
 
 # BOM
 
-|Item|ソース|数量|備考|
-|---|---|---|---|---|
-|TS69V3 PCBA|[JLCPCB PCBA](pcb/)|1||
-|ケース|3D Printed|1|開発中・近日公開|
-|定位板|laser cut metal|1|開発中・近日公開|
-|Pro Micro|[Shigezone等](https://www.shigezone.com/product/arduino-pro-micro/)|1|USB-Cタイプがおすすめ|
-|ピンヘッダ 12pin 2.54ピッチ|電子工作ショップ等|2||
-|キースイッチ|AliEx/淘宝/自キ専門店等|配列によって69〜73個|kailh BOX 白軸がおすすめだけど、好みのものでいい|
-|2u スタビライザー|AliEx/淘宝/自キ専門店等|配列によって2〜5個||
-|3u スタビライザー|AliEx/淘宝/自キ専門店等|配列によって0〜2個|親指シフトキーに3uを使う場合必要|
-|キーキャップ|AliEx/淘宝/自キ専門店等|1set|3u/2.75u/2.25u等の親指キーが計2つ必要。convexタイプを|
+
+| Item |ソース | 数量|  備考 |
+| --- | --- | --- | --- | --- |
+| TS69V3 PCBA | [JLCPCB PCBA](pcb/) | 1 | |
+| ケース | 3D Printed | 1 | 近日公開 |
+| 定位板 | laser cut brass | 1 | 近日公開 |
+| Pro Micro | [Shigezone等](https://www.shigezone.com/product/arduino-pro-micro/) | 1 | USB-Cタイプがおすすめ |
+| ピンヘッダ 12pin 2.54ピッチ | 電子工作ショップ等 | 2 | |
+| キースイッチ | AliEx/淘宝/自キ専門店等 | 配列によって69〜73個 | 何でもOK(kailh box 白軸がおすすめ) |
+| 2u スタビライザー | AliEx/淘宝/自キ専門店等 | 配列によって2〜5個 | |
+| 3u スタビライザー | AliEx/淘宝/自キ専門店等 | 配列によって0〜2個 | 親指シフトキーに3uを使う個数分必要 |
+| キーキャップ | AliEx/淘宝/自キ専門店等 | 1set | 3u/2.75u/2.25u等の親指キーが計2つ必要 |
 
 ## 組み立て工程
 
