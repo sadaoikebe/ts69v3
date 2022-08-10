@@ -63,7 +63,7 @@ JP配列のキー数を再現する場合、図のようにShiftの行は左に0
 Item |ソース | 数量 |  備考
 :--- | :--- | :--- | :---
 TS69V3 PCBA | [JLCPCB PCBA](pcb/) | 1 |
-ケース | 3D Printed | 1 | 近日公開
+ケース | [3D Printed](case/) | 1 | 
 定位板 | [Laser Cut Brass](plate/) | 1 | 
 クッション 2mm厚 x 60mm x 4mm | | 16 | Poron/EVAフォーム等
 Pro Micro | [Shigezone等](https://www.shigezone.com/product/arduino-pro-micro/) | 1 | USB-Cタイプがおすすめ
