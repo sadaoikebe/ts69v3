@@ -64,7 +64,8 @@ Item |ソース | 数量 |  備考
 :--- | :--- | :--- | :---
 TS69V3 PCBA | [JLCPCB PCBA](pcb/) | 1 |
 ケース | [3D Printed](case/) | 1 | 
-定位板 | [Laser Cut Brass](plate/) | 1 | t=1.5mm or 4mm
+定位板 | [Laser Cut Brass](plate/) | 1 | t=1.5mm アクリルでも良いが割れやすい
+ヒートセット M3x6mmx4.6mm | [AliEx/淘宝等](https://www.aliexpress.com/item/1005002288716120.html) | 10 | 長さは6mmでなくても良い
 クッション 2mm厚 x 60mm x 4mm | | 16 | Poron/EVAフォーム等
 Pro Micro | [Shigezone等](https://www.shigezone.com/product/arduino-pro-micro/) | 1 | USB-Cタイプがおすすめ
 ピンヘッダ 12pin 2.54ピッチ | 電子工作ショップ等 | 2 |
